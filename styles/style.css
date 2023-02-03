@@ -37,8 +37,8 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   }
 
   .sign:hover{
-scale: 1.1;
-transition: all 1s ease-in-out;
+    scale: 1.1;
+    transition: all 1s ease-in-out;
   }
   p{
     color: aliceblue;
